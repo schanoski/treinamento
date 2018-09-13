@@ -1,0 +1,8 @@
+		h1{
+			color: blue;
+			font-size: 20px;
+		}
+		h2{
+			border: 2px solid blue;
+			background: white;
+		}

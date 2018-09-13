@@ -1,0 +1,50 @@
+		h1{
+			background: gray;
+		}
+
+
+
+		h3{
+			border-color: black blue;
+			border-width: 20px 20px;
+			border-style: solid solid;
+		}
+		
+		h4{
+			color: white;
+			font-size: 20px;
+			background: black;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+		#verde{
+			color: green;
+		}
+
+		#azul{
+			color: blue;
+		}
+
+
+		
+		
+		.footer{
+			border: solid black;
+			height: 75px;
+			color: white;
+			line-height: 500%;
+			font-size: 15px;
+			
+		}
+

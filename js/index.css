@@ -1,0 +1,32 @@
+		h1{
+			color: red;
+			font-size: 30px;
+		}
+		h2{
+			border: 2px solid blue;
+			background: white;
+		}
+		h3{
+			border-color: black blue;
+			border-width: 20px 20px;
+			border-style: solid solid;
+		}
+		
+		h4{
+			color: white;
+			font-size: 20px;
+			background: black;
+		}
+
+		.titulo{
+			color: blue;
+			background: white;
+		}
+
+		#verde{
+			color: green;
+		}
+
+		#azul{
+			color: blue;
+		}
